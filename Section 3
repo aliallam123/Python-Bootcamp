@@ -1,0 +1,27 @@
+#Python Object and Data Structure Basics
+
+### Python Numbers
+You can check if a number is even or odd by simply dividing it by 2.
+If the output is 0, the number is even. If the output is not 0, the number is odd.
+
+Example:
+56 % 2
+0
+
+###Indexing and Slicing with Strings
+Indexing:
+mystring = "Hello World"
+mystring[2] = 'l'
+mystring[-3] = 'r'
+
+Slicing:
+mystring = 'abcdefghijk'
+mystring[3:6] = 'def'
+
+The strings start at 0.
+0 = a, 1 = b, 2 = c etc.
+
+mystring[::2] = jumps in 2s. So the output would be 'acegik'
+
+mystring[::-1] reverses the string
+output = 'kjihgfedcba'
