@@ -1,5 +1,7 @@
 #Python Object and Data Structure Basics
 
+06/09/2024
+
 ### Python Numbers
 You can check if a number is even or odd by simply dividing it by 2.
 If the output is 0, the number is even. If the output is not 0, the number is odd.
@@ -25,3 +27,20 @@ mystring[::2] = jumps in 2s. So the output would be 'acegik'
 
 mystring[::-1] reverses the string
 output = 'kjihgfedcba'
+
+
+07/09/2024
+
+###Print Formatting with Strings
+Float formatting follows "{value:width.precision f}"
+
+result = 100/77
+result
+output = 0,1287...
+
+print("The result was {r:1.2f}".format(r=result))
+
+output = The result was 104.12
+
+to output something on one line you can write:
+print('{}'.format('Python rules!'))
