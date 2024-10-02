@@ -17,6 +17,6 @@ The practice problems I work on, with my solutions (or attempts, at least).
 ### Mini-Projects: 
 Small projects I build to put my learning into action.
 
-# Follow Along!
+## Follow Along!
 
 I’ll be updating this repo regularly, so feel free to follow along, drop any suggestions, or just see how my Python journey unfolds!
