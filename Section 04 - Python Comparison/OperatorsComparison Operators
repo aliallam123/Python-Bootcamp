@@ -9,4 +9,3 @@ def sec4():
   if (a,b)**2 == 100:
     print('Correct')
 hhh
-
