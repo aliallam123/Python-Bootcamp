@@ -9,3 +9,5 @@ To-do:
 2:00-3:00: Go over ML Project
 
 3:00-4:00: Gym (make sure you sallit asr)
+
+4:00 - 5:00: rest
