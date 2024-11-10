@@ -11,3 +11,5 @@ To-do:
 3:00-4:00: Gym (make sure you sallit asr)
 
 4:00 - 5:00: rest
+
+6:00 - 7:00 Hifz Talaq
