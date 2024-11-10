@@ -7,3 +7,5 @@ To-do:
 1:30-2:00: Lunch
 
 2:00-3:00: Go over ML Project
+
+3:00-4:00: Gym (make sure you sallit asr)
