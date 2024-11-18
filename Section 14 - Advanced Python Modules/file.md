@@ -6,4 +6,3 @@ Eye Test
 ##### P E C F D
 ooooo
 ###### E D F C Z P
-oo
