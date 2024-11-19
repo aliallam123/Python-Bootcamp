@@ -4,5 +4,5 @@ Eye Test
 ### T O Z
 #### L P E C
 ##### P E C F D
-ooo
+oo
 ###### E D F C Z P L
