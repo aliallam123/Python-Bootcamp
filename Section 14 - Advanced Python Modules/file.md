@@ -8,4 +8,3 @@ Eye Test
 o
 course 2:15 - 3:00 
 hifz 3:00 - 3:30 
-ai ethics report 3:30 - 4:30 
