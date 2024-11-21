@@ -6,4 +6,3 @@ Eye Test
 ##### P E C F D
 ###### E D F C Z P L
 o
-hifz 3:00 - 3:30 
