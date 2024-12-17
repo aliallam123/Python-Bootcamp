@@ -1,5 +1,5 @@
 # Python-Bootcamp
-Hey there! 👋
+Hey there 👋
 
 Welcome to my Python Bootcamp repo! This is where I’ll be sharing everything I learn as I dive into a Python course on Udemy. Expect to see this space constantly evolving as I pick up new skills, write more code, and experiment with different projects.
 
