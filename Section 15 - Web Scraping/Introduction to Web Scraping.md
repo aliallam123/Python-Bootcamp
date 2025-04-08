@@ -1,22 +1,30 @@
-Web Scraping – Intro
+# Web Scraping – Intro
+
 This chapter's about web scraping using Python. Basic idea is grabbing data from websites using code. The site gives back HTML, and we use Python to pull out the bits we want.
 
-In this section I’m using:
+## Tools I'm using
 
-requests – to get the webpage
+- `requests` – to get the webpage
+- `BeautifulSoup` – to parse the HTML
 
-BeautifulSoup – to parse the HTML
+## The main steps
 
-The main steps are:
+1. Get the page using `requests`
+2. Use `BeautifulSoup` to parse the HTML
+3. Find the elements you're after (using tags, classes etc)
+4. Extract the data
 
-Get the page using requests
+**Main idea is that:**
 
-Use BeautifulSoup to parse the HTML
+- **HTML contains the information**
+- **CSS contains the styling**
+- **We can use HTML and CSS tags to locate specific information on a page**
 
-Find the elements you're after (using tags, classes etc)
+## Practice site
 
-Extract the data
+The first few examples are from [http://quotes.toscrape.com](http://quotes.toscrape.com) – it’s a practice site made for scraping.
 
-The first few examples are from http://quotes.toscrape.com – it’s a practice site made for scraping.
+## What I'll do in this chapter
 
-Example: Getting quotes and authors
+I'll go through exercises like grabbing a title, class, image etc and some book examples too. Just practising different things step by step.
+
