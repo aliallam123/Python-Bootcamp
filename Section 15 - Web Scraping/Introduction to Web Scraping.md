@@ -28,3 +28,9 @@ The first few examples are from [http://quotes.toscrape.com](http://quotes.toscr
 
 I'll go through exercises like grabbing a title, class, image etc and some book examples too. Just practising different things step by step.
 
+For basic web scraping in Python you need: 
+
+1. pip install requests - To make HTTP requests and get the webpage’s HTML content.
+2. pip install beautifulsoup4 -  (from bs4) – To parse and extract data from the HTML.
+
+
