@@ -1,2 +1,0 @@
-<detail>
-<summary> hello</summary>
